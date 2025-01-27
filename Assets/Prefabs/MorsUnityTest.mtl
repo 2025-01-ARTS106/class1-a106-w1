@@ -1,0 +1,24 @@
+# Made in Blockbench 4.11.2
+newmtl m_1232368b-9341-810e-78ad-8d4e3b3d2061
+map_Kd head.png
+newmtl m_c9e93245-4a1f-ef72-2271-5e1c4b6bbf00
+map_Kd shirt.png
+newmtl m_a1822ccf-cc52-4e8e-f66a-c4cdf95148d0
+map_Kd lower body.png
+newmtl m_814b2fd4-5950-90c3-e9a8-193ca6f1f69d
+map_Kd right horn.png
+newmtl m_7288626a-8c15-1fc6-a2ec-17d6612d30a1
+map_Kd left horn.png
+newmtl m_35f5d94c-a1c4-cafc-24f6-bd6bcae2f719
+map_Kd right ear.png
+newmtl m_2069acf5-b61c-6943-8724-a0a064e347cf
+map_Kd left ear.png
+newmtl m_5ee6645b-fc0b-a94d-945c-1e1de1f96795
+map_Kd upper arm.png
+newmtl m_f8808eb5-dc7f-9fdd-03db-7cb6acadcea8
+map_Kd forearm.png
+newmtl m_4e16cbd4-12f2-2399-b22c-04bfb25c3040
+map_Kd upper leg.png
+newmtl m_5cb26377-a1b7-bbfc-f48f-a30f56ddd895
+map_Kd lower leg.png
+newmtl none
