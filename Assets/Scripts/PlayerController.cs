@@ -69,13 +69,13 @@ public class PlayerController : MonoBehaviour {
 	void SetCountText()
 	{
 		// Update the text field of our 'countText' variable
-		countText.text = "Count: " + count.ToString ();
+		countText.text = "YOU'RE COLLECT: " + count.ToString ();
 
-		// Check if our 'count' is equal to or exceeded 12
-		if (count >= 12) 
+		// Check if our 'count' is equal to or exceeded 64
+		if (count >= 64) 
 		{
 			// Set the text value of our 'winText'
-			winText.text = "You Win!";
+			winText.text = "BY THE WAY YOUR GAY";
 		}
 	}
 }
